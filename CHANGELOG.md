@@ -9,4 +9,4 @@ All notable changes to `me` will be documented in this file
 ### Added
 
 - 3.5 kg
-- Third element of family `Lupacescu`
+- The third element of family `Lupacescu`
